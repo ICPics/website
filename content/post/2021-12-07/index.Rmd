@@ -1,0 +1,30 @@
+---
+author: ICPics
+cover: img/page4.gif
+date: "2021-12-07"
+description: "Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https://twitter.com/ethnICPic), and [Instagram](https://www.instagram.com/ethnicpictures/)"
+title: Generating Artwork in AI
+---
+
+It is not a small feat to train an AI to do what you want it to do. What seems like a miniscule feature or a mundane detail for you as an artist must be explicitly dictated to the artwork generator. For this reason, we use 12 to 15 keywords that describe each attribute of the piece.
+
+- Step 1: We feed the keywords to the AI generator.
+- Step 2: Initialize the AI. Load dependencies, art styles, and palettes.
+- Step 3: AI renders the image.
+- Step 4: Art engine installs additional attributes that defines the rarity.
+	- Frames
+		- Wood types (all exotic): African blackwood, Argentine Lignum Vitae, Dark Oak, Ebony, Exotic Ironwood, Honduran mahogany, Maplewood, White Limba
+	- Rivets
+	- Microprints 
+	- Special mentions 
+- Step 5: Surprise features! Will be disclosed near the launch date!
+
+---
+
+- PS: See the animated rendering of our artwork in the [Showcase](/showcase) tab.
+
+---
+
+Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https://twitter.com/ethnICPic), and [Instagram](https://www.instagram.com/ethnicpictures/) 
+
+We have spoken.
