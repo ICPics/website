@@ -12,7 +12,6 @@ description: "Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https
 
 ### The Team
 
-
 - My name is Paul.
 - I'm the main curator of the ICPics collection. 
 - I am primarily a data scientist by vocation with proficiency in AI, Machine learning, and adaptive systems. 
