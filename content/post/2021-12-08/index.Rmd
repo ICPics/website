@@ -22,6 +22,7 @@ title: Developers wallet collection
     - [ICApes](https://icapeventures.com/)
     - ICSnakes
     - Motoko Day
+    - Yolo Octopus
 
 - We strive to forge important partnerships with all ICP projects. We grow together!
 
