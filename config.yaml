@@ -1,0 +1,41 @@
+baseurl: /
+languageCode: en-us
+theme: hugo-theme-hello-friend
+paginate: 5
+params:
+  contentTypeName: post
+  defaultTheme: light
+  showMenuItems: 5
+  showReadingTime: yes
+languages:
+  en:
+    copyright: 'ethnICPictures.ooo'
+    dateFormatList: '2006-01-02'
+    dateFormatSingle: '2006-01-02'
+    keywords: ''
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+        - identifier: discord
+          name: Discord
+          url: https://discord.gg/gauQWrV2b4
+        - identifier: partnerships
+          name: Partnerships
+          url: /partnerships
+        - identifier: roadmap
+          name: Roadmap
+          url: /roadmap
+    minuteReadingTime: min read
+    newerPosts: Newer posts
+    olderPosts: Older posts
+    params:
+      logo:
+        logoHomeLink: /
+        logoText: ICPics
+    readMore: Read more
+    readOtherPosts: Read other posts
+    subtitle: A NFT collection on the ICP blockchain
+    title: ICPics
+    writtenBy: Written by
