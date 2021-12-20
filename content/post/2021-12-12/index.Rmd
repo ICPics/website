@@ -11,7 +11,7 @@ title: Micro Imprints embedded in your NFT
 - There are two types of imprints
   - #### Special imprints
     - [special mentions](/post/2021-12-09/) (count: 10)
-      - The NFTs typically carry an artists' commission in every secondary market resale, typically about 2.5%. The mentioned contributors would receive these commissions instead of the developers of the ICPics project.[^1] 
+      - The NFTs carry an artists' commission in every secondary market resale, typically about 2.5%. The mentioned contributors would receive these commissions instead of the developers of the ICPics project.[^1] 
     - the classic ICP logo (count: 25)
       - The holders of these NFTs at launch will receive one ICP NFT as a drop. The list of ICP NFTs that we hold can be viewed in the [developers wallet](/post/2021-12-08/) page. 
   - #### Generic imprints
