@@ -1,7 +1,7 @@
 ---
 author: ICPics
 cover: img/gen1.png
-date: "2022-02-09"
+date: "2021-12-12"
 description: "Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https://twitter.com/ethnICPic), and [Instagram](https://www.instagram.com/ethnicpictures/)"
 title: The Queen Collection
 ---
