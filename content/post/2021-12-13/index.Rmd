@@ -9,7 +9,7 @@ title: The Simple Unframed NFT
 
 - This is the most basic NFT design in the [generation ZERO](/showcase/) collection.
 - Features: unframed, curled up
-- Frequency: 18% of this collection.
+- Frequency: 18%
 
 ---
 
