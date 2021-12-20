@@ -13,6 +13,7 @@ title: The Queen Collection
 - Generation ONE 
 - A collection of 10,000 high-res artworks
 - Q2, 2022
+- All Generation ZERO imprint holders at the time of the launch may receive a discount.
 - All Generation ZERO buyers can participate in pre-sale
 
 
