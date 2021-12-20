@@ -1,1 +1,36 @@
+---
+author: ICPics
+cover: img/ImprintsNFT.png
+date: "2021-12-12"
+description: "Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https://twitter.com/ethnICPic), and [Instagram](https://www.instagram.com/ethnicpictures/)"
+title: Micro Imprints embedded in your NFT 
+---
+
+
+- The rarest ICPics NFTs carry a strategical concealed micro imprints in its image. 
+- There are two types of imprints
+  - #### Special imprints
+    - [special mentions](/post/2021-12-09/) (count: 10)
+      - The NFTs typically carry an artists' commission in every secondary market resale, typically about 2.5%. The mentioned contributors would receive these commissions instead of the developers of the ICPics project.[^1] 
+    - the classic ICP logo (count: 25)
+      - The holders of these NFTs at launch will receive one ICP NFT as a drop. The list of ICP NFTs that we hold can be viewed in the [developers wallet](/post/2021-12-08/) page. 
+  - #### Generic imprints
+    - the red rose (count: 5)
+    - the white tulip (count: 20)
+    - the green fern (count: 40)
+    - the brown leaf (count: 100)
+      - These imprints are the rarest NFTs of our collection. Holders of these NFTs will receive special considerations for our [generation one](/gen1/) launch. Yet to be decided!
+
+
+[^1]: To be finalized with the marketplace before implementation.
+
+---
+
+- PS: If you have any questions about your NFT, let us know in the ❔︱ticket channel in our [Discord](https://discord.gg/gauQWrV2b4) server.
+
+---
+
+Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https://twitter.com/ethnICPic), and [Instagram](https://www.instagram.com/ethnicpictures/) 
+
+We have spoken.
 
