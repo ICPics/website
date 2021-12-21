@@ -17,7 +17,7 @@ Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https://twitter.com
   - 400 pixels x 400 pixels 
   - Theme: ethnic people and ethnic places of the past and the present from around the world.
   - All continents represented.
-- Launch: January 19, 2022.
+- Launch: Q1, 2022.
 - Marketplace: [Entrepot](https://entrepot.app/).
 - Rarity: Common, Uncommon, Rare, Super Rare, Ultra Rare.
 
