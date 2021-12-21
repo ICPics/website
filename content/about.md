@@ -7,7 +7,7 @@ description: "Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https
 
 ## The Story
 
-The story of ethnic artwork depicting its people and places is a culturally significant one. Ethnic indigenous art is not only the most valuable, the most trafficked, and the most sold items in the black market in reality, even fictional stories about them in main stream movies create an awe to the consumer. Who can forget the holy grail quest, lost ark raiders, empress' jade pin, king solomon's mines, the fula tribe's war hammer, and the kohinoor diamond. This is our attempt to return these priceless pieces, albeit digital one, to the public eye.[^1] 
+The story of ethnic artwork depicting its people and places is a culturally significant one. Ethnic indigenous art is not only the most valuable, the most trafficked, and the most sold items in the black market in reality, even fictional stories about them in main stream movies create an awe to the consumer. Who can forget the holy grail quest, lost ark raiders, empress' jade pin, king solomon's mines, the fula tribe's war hammer, and the kohinoor diamond. This is our attempt to return these priceless pieces, albeit digital ones, to the public eye.[^1] 
 
 [^1]: *Disclaimer*: The *About us* is the most difficult page to write. The story of ethnic indigenous societies have been written and rewritten so many times that it was hard to curate an accurate depiction of all cultures of the world. But, this is our humble attempt. All errors are our own and we are open rectify any aspect of our artwork in subsequent editions.
 
