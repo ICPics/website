@@ -10,7 +10,7 @@ description: "Join our [Discord](https://discord.gg/gauQWrV2b4), [Twitter](https
 - Discord server launch - October 9, 2021
 - Collaboration with Entrepot Marketplace - December 10, 2021
 - Website launch - December 31, 2021
-- [Project plan](/plan) release - Q1, 2021
+- [Project plan](/plan) release - Q1, 2022
 - [Generation ZERO](/showcase) NFT launch: 1,000 ICPic collection - Q1, 2022
 - [Club membership](/membership) to initial owners of Generation ZERO - Q1, 2022
 - [Generation ONE](/showcase1) NFT launch: 10,000 Queens collection - Q2, 2022
